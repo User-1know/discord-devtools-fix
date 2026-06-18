@@ -1,0 +1,18 @@
+{
+  "BACKGROUND_COLOR": "#121214",
+  "audioSubsystem": "experimental",
+  "offloadAdmControls": true,
+  "DESKTOP_TTI_EARLY_UPDATE_CHECK": true,
+  "DESKTOP_TTI_UPDATE_BACKOFF_MAX_MS": 3000,
+  "chromiumSwitches": {},
+  "IS_MAXIMIZED": true,
+  "IS_MINIMIZED": false,
+  "WINDOW_BOUNDS": {
+    "x": 324,
+    "y": 128,
+    "width": 940,
+    "height": 720
+  },
+  "asyncVideoInputDeviceInit": true,
+  "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true
+}
